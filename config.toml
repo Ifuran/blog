@@ -1,0 +1,6 @@
+baseURL = 'http://ifranlalahi.com/'
+languageCode = 'en-us'
+title = 'Ifran Lalahi'
+theme = 'hugoin'
+[params]
+	Description = "Ifran Silalahi"
