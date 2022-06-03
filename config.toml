@@ -1,4 +1,4 @@
-baseURL = 'http://ifuran.github.io/blog/'
+baseURL = 'http://ifuran.github.io/'
 languageCode = 'en-us'
 title = 'Ifran Lalahi'
 theme = 'hugoin'
