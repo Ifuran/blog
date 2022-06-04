@@ -28,6 +28,10 @@ header .nav a:hover {
 	background-color: black;
 }
 
+#content #disqus_thread {
+	background-color: #000;
+}
+
 #content .info {
 	padding-bottom: 5px;	
 }
@@ -55,11 +59,13 @@ footer {
 	width: 700px;
 	margin: 0 auto;
 	text-align: center;
-	padding: 5px 15px;
+	padding: 5px 15px;	
 }
+
 footer .sosmed {
 	padding: 10px 0 0 0;
 }
+
 footer .sosmed a {
 	text-decoration: none;
 	color: #000;
