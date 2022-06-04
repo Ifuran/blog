@@ -4,7 +4,7 @@
         <ul>
             {{range.Pages}}
             <li>
-                <a href="{{.Permalink}}">{{.Title}} <span>Dibuat {{.Date.Format "2006-01-02"}}</span></a>
+                <a href="{{.Permalink}}"><strong> {{.Title}} </strong><span>Dibuat {{.Date.Format "2006-01-02"}}</span></a>
             </li>                 
             {{end}} 
         </ul>                 
